@@ -1,0 +1,8 @@
+REQUERIMIENTOS:
+-Pag web con mi información personal como estudiante de Ing. de Sistemas
+-Sección de contacto
+-Sección de proyectos
+-Sección de estudios
+-Sección de información personal
+-Sección menú
+-Sección footer
